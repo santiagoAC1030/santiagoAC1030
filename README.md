@@ -1,4 +1,4 @@
-saludos! mi nombre es Santiago Arroyave Cañaveral
+hola! soy Santiago
 
 Soy estudiante de Análisis y Desarrollo de Software y técnico en Mecánica Industrial con más de 10 años de experiencia.
 
