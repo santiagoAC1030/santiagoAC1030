@@ -1,5 +1,5 @@
 <h1 align="center">hola! soy Santiago Arroyave😁</h1>
-<h3 align="center">Un estudiante de Análisis y Desarrollo de Software 💻</h3>
+<h3 align="center">Un estudiante de Análisis y Desarrollo de Software 💻, ahora mismo estoy enfocado en mi crecimiento profesional, por ahora estoy aprendiendo a manejar las siguientes herramientas:</h3>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
